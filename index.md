@@ -1,3 +1,8 @@
+---
+layout: default
+title: How do I get to the 2018 Colorado Aspirations in Computing Awards
+---
+
 # Welcome
 
 This website aims to answer one simple question:
