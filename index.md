@@ -1,6 +1,6 @@
 ---
 title: 2018 Colorado Aspirations in Computing Awards
-layout: post
+layout: page
 ---
 
 # Welcome
