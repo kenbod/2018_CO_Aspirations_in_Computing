@@ -150,6 +150,6 @@
 
 <h1>Wrapping Up</h1>
 
-<p>I hope you found this information useful and wish you much success on your parking-related Odyssey. My team and I cannot wait to see you and to celebrate your accomplishments in computing!!</p>
+<p>I hope you found this information useful and I wish you much success on your parking-related Odyssey. My team and I cannot wait to see you and your family so we can celebrate your accomplishments in computing!!</p>
 
 <p>See you soon!</p>
