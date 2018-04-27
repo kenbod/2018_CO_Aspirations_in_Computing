@@ -1,7 +1,17 @@
 <h1>Welcome</h1>
 
+<p>The 2018 Colorado Aspirations in Computing Awards will be held on Saturday, April 28, 2018! We hope you're excited as we are for the event!</p>
+
+<p>The program starts at 1 PM; you should arrive at 12:30 PM-ish to check in and get settled before everything gets underway. But, you probably have a question:</p>
+
 <blockquote class="blockquote text-center">
-  <p><strong>How do I get to the 2018 Colorado Aspirations in Computing Awards?</strong></p>
+  <p class="mb-0"><strong>How did Prof. Anderson make this website?</strong></p>
+</blockquote>
+
+<p>No, not that question! Try again:</p>
+
+<blockquote class="blockquote text-center">
+  <p class="mb-0"><strong>How do I get to the 2018 Colorado Aspirations in Computing Awards?</strong></p>
 </blockquote>
 
 <p>I'm glad you asked!</p>
@@ -21,15 +31,23 @@
 <div id="orange_buildings" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img class="d-block w-100" src="images/ntbyalf1.jpg" alt="not the buildings, you are looking for">
+      <img class="d-block w-50" src="images/ntbyalf1.jpg" alt="not the buildings, you are looking for">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="images/ntbyalf2.jpg" alt="not the buildings, you are looking for">
+      <img class="d-block w-50" src="images/ntbyalf2.jpg" alt="not the buildings, you are looking for">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="images/ntbyalf3.jpg" alt="not the buildings, you are looking for">
+      <img class="d-block w-50" src="images/ntbyalf3.jpg" alt="not the buildings, you are looking for">
     </div>
   </div>
+  <a class="carousel-control-prev" href="#orange_buildings" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="carousel-control-next" href="#orange_buildings" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
 </div>
 
 <p>These are NOT the buildings you are looking for. If you see this sign:</p>
