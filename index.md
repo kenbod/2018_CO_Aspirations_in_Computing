@@ -76,5 +76,54 @@
 
 <h1>Parking</h1>
 
+<p>Now, hold on a minute. You can't very well walk through those doors if you haven't found a place to park! So, what are your options?</p>
 
+<img src="images/annotated_map.jpg" class="rounded mx-auto d-block" style="width: 75%" alt="annotated map">
 
+<p>Your options:</p>
+
+<ul>
+  <li>Blue: Go to this lot and pay for parking.</li>
+  <li>Orange: Try to find parking along this street.</li>
+  <li>Green: Try to find parking in this shopping center across the street.</li>
+  <li>Red: This is the building you're looking for. You can't park on a building.</li>
+  <li>Final Option: Head North!</li>
+</ul>
+
+<h2>Paid Parking Lot</h2>
+
+<p>If you want to pay for parking, head to the lot highlighted in blue. You'll see this sign when you're in the right place:</p>
+
+<img src="images/blue_parking_sign.jpg" class="rounded mx-auto d-block" style="width: 50%" alt="blue_parking_sign">
+
+<p>as well as this sign:</p>
+
+<img src="images/aggro_sign_1.jpg" class="rounded mx-auto d-block" style="width: 50%" alt="aggro">
+
+<p>(What is up with the designers of parking lot signs? Why so aggressive?)</p>
+
+<p>Once parked (if there is a spot available), then use this simple, well-designed parking station to pay for parking:</p>
+
+<img src="images/not_complex.jpg" class="rounded mx-auto d-block" style="width: 50%" alt="not simple">
+
+<p>Then head towards the southwest side of this building:</p>
+
+<img src="images/this_is_it_3.jpg" class="rounded mx-auto d-block" style="width: 50%" alt="this is still it">
+
+<p>and head through the magic doors!</p>
+
+<h2>30th Street</h2>
+
+<p>The orange line on the map is 30th Street; it looks like this facing east:</p>
+
+<img src="images/30th_east_ish.jpg" class="rounded mx-auto d-block" style="width: 50%" alt="facing east">
+
+<p>and like this, when facing west:</p>
+
+<img src="images/30th_west_ish.jpg" class="rounded mx-auto d-block" style="width: 50%" alt="facing west">
+
+<p>If there is a spot available, you should be able to park there.</p>
+
+<h2>Shopping Center</h2>
+
+<h2>Heading North</h2>
