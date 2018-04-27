@@ -28,26 +28,28 @@
 
 <p>When most people think of Williams Village, they think of these lovely, aesthetic, um, orange buildings that everyone sees when they drive into Boulder</p>
 
-<div id="orange_buildings" class="carousel slide" data-ride="carousel">
-  <div class="carousel-inner">
-    <div class="carousel-item active">
-      <img class="d-block" style="width: 50%" src="images/ntbyalf1.jpg"  alt="not the buildings, you are looking for">
+<div class="mx-auto" style="width: 50%">
+  <div id="orange_buildings" class="carousel slide" data-ride="carousel">
+    <div class="carousel-inner">
+      <div class="carousel-item active">
+        <img class="d-block w-100" src="images/ntbyalf1.jpg"  alt="not the buildings, you are looking for">
+      </div>
+      <div class="carousel-item">
+        <img class="d-block w-100" src="images/ntbyalf2.jpg" alt="not the buildings, you are looking for">
+      </div>
+      <div class="carousel-item">
+        <img class="d-block w-100" src="images/ntbyalf3.jpg" alt="not the buildings, you are looking for">
+      </div>
     </div>
-    <div class="carousel-item">
-      <img class="d-block" style="width: 50%" src="images/ntbyalf2.jpg" alt="not the buildings, you are looking for">
-    </div>
-    <div class="carousel-item">
-      <img class="d-block" style="width: 50%" src="images/ntbyalf3.jpg" alt="not the buildings, you are looking for">
-    </div>
+    <a class="carousel-control-prev" href="#orange_buildings" role="button" data-slide="prev">
+      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+      <span class="sr-only">Previous</span>
+    </a>
+    <a class="carousel-control-next" href="#orange_buildings" role="button" data-slide="next">
+      <span class="carousel-control-next-icon" aria-hidden="true"></span>
+      <span class="sr-only">Next</span>
+    </a>
   </div>
-  <a class="carousel-control-prev" href="#orange_buildings" role="button" data-slide="prev">
-    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-    <span class="sr-only">Previous</span>
-  </a>
-  <a class="carousel-control-next" href="#orange_buildings" role="button" data-slide="next">
-    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-    <span class="sr-only">Next</span>
-  </a>
 </div>
 
 <p>These are NOT the buildings you are looking for. If you see this sign:</p>
