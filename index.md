@@ -96,7 +96,7 @@
 
 <img src="images/blue_parking_sign.jpg" class="rounded mx-auto d-block" style="width: 50%" alt="blue_parking_sign">
 
-<p>as well as this sign:</p>
+<p>as well as this (slightly agressive) sign:</p>
 
 <img src="images/aggro_sign_1.jpg" class="rounded mx-auto d-block" style="width: 50%" alt="aggro">
 
