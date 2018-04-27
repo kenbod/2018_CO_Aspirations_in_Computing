@@ -62,17 +62,17 @@
 
 <p>Fortunately, all you have to do is look to your left and you will see the CORRECT building!</p>
 
-<img src="images/this_is_it.jpg" class="rounded mx-auto d-block" style="width: 50%" alt="darley">
+<img src="images/this_is_it.jpg" class="rounded mx-auto d-block" style="width: 50%" alt="dining hall">
 
 <p>Unfortunately, you're standing on the north side of the building and you want to be on the southwest side of the building. If you go there, you'll see this sign:</p>
 
-<img src="images/the_right_sign.jpg" class="rounded mx-auto d-block" style="width: 50%" alt="darley">
+<img src="images/the_right_sign.jpg" class="rounded mx-auto d-block" style="width: 50%" alt="the correct sign">
 
 <p>And, you will know you're almost there. The building you're looking for looks like this from the south:</p>
 
-<img src="images/this_is_it2.jpg" class="rounded mx-auto d-block" style="width: 50%" alt="darley">
+<img src="images/this_is_it2.jpg" class="rounded mx-auto d-block" style="width: 50%" alt="dining hall from the south">
 
-<p>If you go through those doors, then congrats, you've found the 2018 Colorado Aspirations in Computing Awards!</p>
+<p>If you go through those doors, then, <strong>CONGRATS<strong>, you've found the 2018 Colorado Aspirations in Computing Awards!</p>
 
 <h1>Parking</h1>
 
