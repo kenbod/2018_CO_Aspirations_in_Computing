@@ -14,4 +14,4 @@
 
 <p>In a far-off place, known as Williams Village at the University of Colorado Boulder.</p>
 
-<p><img src="images/williams_village_cool_sign.jpg" class="rounded mx-auto" style="width: 50%" alt="williams village">
+<img src="images/williams_village_cool_sign.jpg" class="rounded mx-auto d-block" style="width: 50%" alt="williams village">
