@@ -26,7 +26,7 @@
 
 <img src="images/williams_village_cool_sign.jpg" class="rounded mx-auto d-block" style="width: 50%" alt="williams village">
 
-<p>When most people think of Williams Village, they think of these lovely, aesthetic, um, orange buildings that everyone sees when they drive into Boulder</p>
+<p>When most people think of Williams Village, they think of these lovely, aesthetic, um, orange buildings that everyone sees when they drive into Boulder.</p>
 
 <div class="mx-auto" style="width: 50%">
   <div id="orange_buildings" class="carousel slide" data-ride="carousel">
@@ -54,7 +54,7 @@
 
 <p>&nbsp;</p>
 
-<p>These are NOT the buildings you are looking for. If you see this sign:</p>
+<p>Unfortunately, these are NOT the buildings you are looking for. If you see this sign:</p>
 
 <img src="images/ntbyalf_sign.jpg" class="rounded mx-auto d-block" style="width: 50%" alt="darley">
 
@@ -64,7 +64,7 @@
 
 <img src="images/this_is_it.jpg" class="rounded mx-auto d-block" style="width: 50%" alt="dining hall">
 
-<p>Unfortunately, you're standing on the north side of the building and you want to be on the southwest side of the building. If you go there, you'll see this sign:</p>
+<p>However, from this vantage point, you're standing on the north side of the building and you want to be on the southwest side of the building. If you go there, you'll see this sign:</p>
 
 <img src="images/the_right_sign.jpg" class="rounded mx-auto d-block" style="width: 50%" alt="the correct sign">
 
@@ -73,6 +73,8 @@
 <img src="images/this_is_it_2.jpg" class="rounded mx-auto d-block" style="width: 50%" alt="dining hall from the south">
 
 <p>If you go through those doors, then, <strong>CONGRATS</strong>, you've found the 2018 Colorado Aspirations in Computing Awards!</p>
+
+<hr />
 
 <h1>Parking</h1>
 
