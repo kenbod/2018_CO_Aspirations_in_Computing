@@ -1,7 +1,6 @@
 ---
 layout: default
 title: How do I get to the 2018 Colorado Aspirations in Computing Awards
-name: Ken Anderson
 ---
 
 # Welcome
