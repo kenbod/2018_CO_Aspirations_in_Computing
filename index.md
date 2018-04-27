@@ -100,8 +100,6 @@
 
 <img src="images/aggro_sign_1.jpg" class="rounded mx-auto d-block" style="width: 50%" alt="aggro">
 
-<p>(What is up with the designers of parking lot signs? Why so aggressive?)</p>
-
 <p>Once parked (if there is a spot available), then use this simple, well-designed parking station to pay for parking:</p>
 
 <img src="images/not_complex.jpg" class="rounded mx-auto d-block" style="width: 50%" alt="not simple">
@@ -126,4 +124,32 @@
 
 <h2>Shopping Center</h2>
 
+<p>If you can't find parking in the paid lot or on 30th, you can try to park over at the shopping center across the street. It looks like this:</p>
+
+<img src="images/maybe_here1.jpg" class="rounded mx-auto d-block" style="width: 50%" alt="shopping center 1">
+
+<p>and this:</p>
+
+<img src="images/maybe_here2.jpg" class="rounded mx-auto d-block" style="width: 50%" alt="shopping center 2">
+
+<p>and comes with its own slightly agressive parking sign:</p>
+
+<img src="images/aggro_sign_2.jpg" class="rounded mx-auto d-block" style="width: 50%" alt="aggro sign 2">
+
+<p>(What is up with the designers of parking lot signs?)</p>
+
+<p>I've parked in this parking lot many times for events in Williams Village and have never had a problem. However, your mileage may vary.</p>
+
 <h2>Heading North</h2>
+
+<p>The last option is to head north on 30th street:</p>
+
+<img src="images/head_north_young_woman.jpg" class="rounded mx-auto d-block" style="width: 50%" alt="head north">
+
+<p>Up this street, on the left and right, are many neighborhoods with (mainly) student housing. You should be able to find parking in these neighborhoods as a last resort. You will then have to walk south and find the magic doors on the southwest side of the building marked in red!</p>
+
+<h1>Wrapping Up</h1>
+
+<p>I hope you found this information useful and wish you much success on your parking-related Odyssey. My team and I cannot wait to see you and to celebrate your accomplishments in computing!!</p>
+
+<p>See you soon!</p>
