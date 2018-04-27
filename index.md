@@ -70,9 +70,9 @@
 
 <p>And, you will know you're almost there. The building you're looking for looks like this from the south:</p>
 
-<img src="images/this_is_it2.jpg" class="rounded mx-auto d-block" style="width: 50%" alt="dining hall from the south">
+<img src="images/this_is_it_2.jpg" class="rounded mx-auto d-block" style="width: 50%" alt="dining hall from the south">
 
-<p>If you go through those doors, then, <strong>CONGRATS<strong>, you've found the 2018 Colorado Aspirations in Computing Awards!</p>
+<p>If you go through those doors, then, <strong>CONGRATS</strong>, you've found the 2018 Colorado Aspirations in Computing Awards!</p>
 
 <h1>Parking</h1>
 
