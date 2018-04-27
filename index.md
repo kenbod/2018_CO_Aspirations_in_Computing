@@ -52,10 +52,29 @@
   </div>
 </div>
 
+<p>&nbsp;</p>
+
 <p>These are NOT the buildings you are looking for. If you see this sign:</p>
 
 <img src="images/ntbyalf_sign.jpg" class="rounded mx-auto d-block" style="width: 50%" alt="darley">
 
 <p>then you have found the WRONG building.</p>
+
+<p>Fortunately, all you have to do is look to your left and you will see the CORRECT building!</p>
+
+<img src="images/this_is_it.jpg" class="rounded mx-auto d-block" style="width: 50%" alt="darley">
+
+<p>Unfortunately, you're standing on the north side of the building and you want to be on the southwest side of the building. If you go there, you'll see this sign:</p>
+
+<img src="images/the_right_sign.jpg" class="rounded mx-auto d-block" style="width: 50%" alt="darley">
+
+<p>And, you will know you're almost there. The building you're looking for looks like this from the south:</p>
+
+<img src="images/this_is_it2.jpg" class="rounded mx-auto d-block" style="width: 50%" alt="darley">
+
+<p>If you go through those doors, then congrats, you've found the 2018 Colorado Aspirations in Computing Awards!</p>
+
+<h1>Parking</h1>
+
 
 
